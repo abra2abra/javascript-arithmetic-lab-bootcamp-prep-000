@@ -21,3 +21,4 @@ console.log(number);
 
 divideBy3();
 console.log(number)
+
