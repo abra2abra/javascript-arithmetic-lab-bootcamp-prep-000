@@ -1,6 +1,8 @@
-add(){
+var number = 10;
+
+function add(){
   return 
 }
-subtract(){}
-multiply(){}
-divide(){}
+function subtract(){}
+function multiply(){}
+function divide(){}
